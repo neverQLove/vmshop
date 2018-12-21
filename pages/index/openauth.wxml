@@ -1,0 +1,8 @@
+<view class="inner">
+  <!--  <view class="title">欢迎您的到来</view>
+    <view class="subtitle">进入小程序后点击[允许]开始使用哦</view>-->
+    <view class="model-btns">
+       
+        <button style="color:#fff;background:#ff5555;font-size:18px;" bindgetuserinfo="userinfo" bindtap="confirmclick" openType="getUserInfo">进入小程序</button>
+    </view>
+</view>
